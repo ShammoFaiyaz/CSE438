@@ -1,1 +1,18 @@
 
+Link to unlisted YouTube video:
+https://youtube.com/.....
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/.....
+
+Paper title:
+A review on image-based approaches for breast cancer detection, segmentation, and classification 
+
+Link to the paper:
+https://doi.org/10.1016/j.eswa.2021.115204
+
+Group Number:
+8
+
+Individual Submitter:
+20301054 Shammo Faiyaz Ahmed
