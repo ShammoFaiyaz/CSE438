@@ -3,7 +3,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1crJpLrl06nrFFNuF6i_KtEYW1In3kIpMZDrohxz9n5A/edit?usp=sharing
 
 Paper title:
 Deep transfer learning for IDC breast cancer detection using fast AI technique and Sqeezenet architecture 
