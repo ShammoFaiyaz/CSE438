@@ -2,11 +2,13 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/7455347936vqtytbrhdnsg
 
 Unlisted YouTube video:
+https://youtu.be/e0UNysxLKMw
 
 Conference submitted paper / paper submission / login Link:
 
+
 Paper title:
-Breast Cancer Segmentation using Grad-CAM
+Breast Cancer Segmentation using grad-CAM
 
 Paper presentation (anyone can view without login):
 https://www.overleaf.com/read/cfycbgyctrmf
@@ -15,6 +17,7 @@ Paper submission date (to workshop/conference):
 31st August 2023
 
 Paper submission ID: (received) from conference/workshop
+
 
 Conference Name:
 2023 IEEE 5th International Conference on Artificial Intelligence and Computer Applications (ICAICA 2023)
